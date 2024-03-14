@@ -6,8 +6,8 @@ export default function App() {
   const [visibleName, setVisibleName] = useState(name)
 
   return (
-    <View style={{flex: 1, backgroundColor: '#fff'}}>
-      <View style={{flex: 1, justifyContent: "space-evenly", alignItems: "center", backgroundColor: "#fff"}}>
+    <View style={{flex: 1, backgroundColor: "#4ea24e"}}>
+      <View style={{flex: 1, justifyContent: "space-evenly", alignItems: "center", backgroundColor: "#4ea24e"}}>
         <View style={{alignItems: "center"}}>
           <Text style={{fontSize: 16}}>
             Cadastre seu Projeto:
